@@ -22,4 +22,4 @@ Lighting Effects:
 Screenshot:
 -----
 
-![Screenshot 1](https://www.satial.xyz/screenshots/jdg6yq7gFUGSDX2b.png)
+![Screenshot 1](https://raw.githubusercontent.com/SaturnKai/KulaWorldKeyboardEffect/main/.screenshots/screenshot.png)
